@@ -1,4 +1,7 @@
+Below is the final complete README.md file for Darkstar_pro:
 
+
+---
 
 # Darkstar_pro
 
@@ -78,7 +81,7 @@ Cloning the Repository
 
 Clone the repository from GitHub:
 
-git clone https:git//github.com/Darkstar-xd/DARKSTAR-POST-LODER1
+git clone https://github.com/Darkstar-xd/DARKSTAR-POST-LODER1
 cd DARKSTAR-POST-LODER1
 
 
@@ -89,16 +92,6 @@ Usage
 1. Run the Tool
 Start the tool by running:
 
-python Main.py
-
-
-
-##Run
-
-git clone https:git//github.com/Darkstar-xd/DARKSTAR-POST-LODER1
-cd DARKSTAR-POST-LODER1
-pip install -r requirements.txt
-ls
 python Main.py
 
 
@@ -147,6 +140,11 @@ Darkstar_pro uses a unique, system-derived token for approval via a GitHub-hoste
 Password Protection
 A fixed password (customizable in code) is used to restrict access. Only a limited number of attempts are allowed.
 
+Obfuscation & Self-Destruct
+Critical components of the code are obfuscated. In case of tampering or repeated failed password attempts, the tool auto-terminates to protect its integrity.
+
+
+> Note: The current obfuscation and security methods are intended to deter casual reverse engineering. For stronger security, consider integrating advanced key management and anti-debugging techniques.
 
 
 
@@ -173,11 +171,15 @@ Developer: Sahil
 
 WhatsApp: 🔗 7357756994
 
-GitHub: 🔗Darkstar-xd
+GitHub: 🔗 Darkstar-xd
+
 
 
 ---
 
 Darkstar_pro is intended for educational and authorized use only. Unauthorized access, reverse engineering, or misuse is strictly prohibited.
 
+---
+
+Simply save this text as `README.md` in your repository. This README is written in a modern style with clear sections, a table of contents, and all necessary details for installation, usage, and contribution.
 
