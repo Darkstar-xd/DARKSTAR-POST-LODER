@@ -1,4 +1,2 @@
-from loader import Darkstar_pro
-
-# 🔥 Now you can call functions from the .so file
-Darkstar_pro.some_function()
+import Darkstar_pro
+Darkstar_pro.main()
