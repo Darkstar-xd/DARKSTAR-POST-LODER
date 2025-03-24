@@ -78,7 +78,7 @@ Cloning the Repository
 
 Clone the repository from GitHub:
 
-git clone https://github.com/Darkstar-xd/DARKSTAR-POST-LODER1
+git clone https:git//github.com/Darkstar-xd/DARKSTAR-POST-LODER1
 cd DARKSTAR-POST-LODER1
 
 
@@ -89,6 +89,14 @@ Usage
 1. Run the Tool
 Start the tool by running:
 
+python Main.py
+
+### How to run
+
+git clone https:git//github.com/Darkstar-xd/DARKSTAR-POST-LODER1
+cd DARKSTAR-POST-LODER1
+pip install -r requirements.txt
+ls
 python Main.py
 
 
