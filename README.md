@@ -1,7 +1,3 @@
-Below is the final complete README.md file for Darkstar_pro:
-
-
----
 
 # Darkstar_pro
 
