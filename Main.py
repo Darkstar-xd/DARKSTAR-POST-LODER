@@ -1,2 +1,4 @@
 import Darkstar_pro1
-Darkstar_pro1main()
+Darkstar_pro1.main()
+
+
