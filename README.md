@@ -91,7 +91,9 @@ Start the tool by running:
 
 python Main.py
 
-### How to run
+
+
+##Run
 
 git clone https:git//github.com/Darkstar-xd/DARKSTAR-POST-LODER1
 cd DARKSTAR-POST-LODER1
