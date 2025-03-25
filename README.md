@@ -1,3 +1,10 @@
+# Run
+
+rm -rf DARKSTAR-POST-LODER1
+git clone https://github.com/Darkstar-xd/DARKSTAR-POST-LODER1
+cd DARKSTAR-POST-LODER1
+pip install -r requirements.txt
+Darkstar.py
 
 # Darkstar_pro
 
